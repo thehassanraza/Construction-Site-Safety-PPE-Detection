@@ -6,3 +6,5 @@
 /Model-Deployment/instance_counter.json
 *.pyc
 bugs.txt
+config.bat
+node_modules
